@@ -1,0 +1,6 @@
+namespace SPORTHUBAPI.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
